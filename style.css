@@ -1,13 +1,68 @@
 #icons {
-    background-color: black;
-    margin: auto;
-    justify-content: center;
-    float: left;
+    margin:auto;
     width: auto;
     align-items: center;
+    
+}
+
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 #game-image{
     width: 128px;
     height: 128px;
 }
+
+body{
+    text-align: center;
+    background-color: black;
+    color:gold;
+}
+
+#game-info{
+    margin-top: 10px;
+    visibility: hidden;
+}
+#new-name{
+    background-color: black;
+    border-width: 3px;
+    border-color: white;
+    color: gold;
+    margin-left: 5px;
+}
+
+#new-description{
+    background-color: black;
+    border-width: 3px;
+    border-color: white;
+    color: gold;
+    margin-left: 5px;
+}
+
+#new-image{
+    background-color: black;
+    border-width: 3px;
+    border-color: white;
+    color: gold;
+    margin-left: 5px;
+}
+
+#newG-button{
+    background-color: gold;
+    border-width: 4px;
+    margin-left: 5px;
+
+}
+
+
+
+/*
+#form{
+    visibility: hidden;
+}*/
+

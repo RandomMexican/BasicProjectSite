@@ -5,6 +5,7 @@ fetch(link)
     games.forEach(game => {
         displayImages(game);
     });
+    displayInfo(games[0]);
 });
 
 function displayImages(game)
@@ -19,6 +20,7 @@ function displayImages(game)
 
     //different events attached to all the icons
     image.addEventListener("click", () => {
+        document.querySelector("#game-info").style.visibility = "visible";
         displayInfo(game);
     });
     image.addEventListener("mouseover", () => {
@@ -56,6 +58,7 @@ function submitForm(e)
     console.log(JSON.stringify(gameObj));
     addGame(gameObj);
 }
+
 //adds gameinfo from the form above to db.json file
 function addGame(gameObj)
 {
