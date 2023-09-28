@@ -1,0 +1,34 @@
+{
+  "GameList": [
+    {
+      "id": 1,
+      "name": "Dog Walker",
+      "description": "Short game made for Games for change",
+      "image": "./assets/DogWalker.png"
+    },
+    {
+      "id": 2,
+      "name": "Space Trash",
+      "description": "Short game made for a Game Jam at SIA",
+      "image": "./assets/SpaceTrash.png"
+    },
+    {
+      "id": 3,
+      "name": "Rise of the blobfish",
+      "description": "project made for SIA summer 2019",
+      "image": "./assets/BlobFishIcon.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Majik",
+      "description": "made for game jam at SIA",
+      "image": "./assets/yarnmonsterBOSS_1.png"
+    },
+    {
+      "id": 5,
+      "name": "Laika",
+      "description": "another game made for SIA",
+      "image": "./assets/Laika.title.png"
+    }
+  ]
+}

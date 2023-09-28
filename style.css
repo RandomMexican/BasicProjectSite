@@ -1,0 +1,13 @@
+#icons {
+    background-color: black;
+    margin: auto;
+    justify-content: center;
+    float: left;
+    width: auto;
+    align-items: center;
+}
+
+#game-image{
+    width: 128px;
+    height: 128px;
+}
