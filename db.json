@@ -3,31 +3,31 @@
     {
       "id": 1,
       "name": "Dog Walker",
-      "description": "Short game made for Games for change",
+      "description": "Short game made for Games for change under the Benefits of human and animal bond category and receiving the Silver key, the finalist award for the competition. you play as a dog trying to help people feel better by playing a mini game",
       "image": "./assets/DogWalker.png"
     },
     {
       "id": 2,
       "name": "Space Trash",
-      "description": "Short game made for a Game Jam at SIA",
+      "description": "very short game about about well space trash. Created for a game jam at SIA where you play as an astronaught avoiding trash in space on your way to mars to collect frozen ice for water",
       "image": "./assets/SpaceTrash.png"
     },
     {
       "id": 3,
       "name": "Rise of the blobfish",
-      "description": "project made for SIA summer 2019",
+      "description": "My first ever solo game made in 2019 in a week this version is incomplete but will be replaced with original version that I thought was deleted",
       "image": "./assets/BlobFishIcon.jpg"
     },
     {
       "id": 4,
       "name": "Majik",
-      "description": "made for game jam at SIA",
+      "description": "made for game jam at SIA this one is the shortest out of all of them the player fights a spaghetti monster boss at the end of the platform",
       "image": "./assets/yarnmonsterBOSS_1.png"
     },
     {
       "id": 5,
       "name": "Laika",
-      "description": "another game made for SIA",
+      "description": "another game made for an SIA Game Jam, you play as the dog Laika the first animal sent to space and try and solve puzzles while switching betwen top pov and side pov",
       "image": "./assets/Laika.title.png"
     }
   ]

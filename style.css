@@ -1,10 +1,12 @@
 #icons {
-    margin:auto;
+    
     width: auto;
     align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     
 }
-
 
 img {
     margin-top: 20px;
@@ -22,7 +24,19 @@ body{
     text-align: center;
     background-color: black;
     color:gold;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
+.center
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 20px;
+    align-items: center;
+}
+
 
 #game-info{
     margin-top: 10px;
